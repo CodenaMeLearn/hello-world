@@ -1,2 +1,5 @@
 # hello-world
-Studying for future
+
+Hello!
+
+Just starting my journey in coding and studying new ways of making code
